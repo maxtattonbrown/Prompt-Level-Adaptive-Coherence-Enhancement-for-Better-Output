@@ -1,6 +1,6 @@
 ---
-name: placebo
-description: "P.L.A.C.E.B.O. — Prompt-Level Adaptive Coherence Enhancement for Better Output. Pre-analyzes task complexity, calibrates reasoning depth, and verifies response coherence before output. Activate before complex tasks for measurably improved results."
+name: prompt-level-adaptive-coherence-enhancement-for-better-output
+description: "Prompt-Level Adaptive Coherence Enhancement for Better Output. Pre-analyzes task complexity, calibrates reasoning depth, and verifies response coherence before output. Activate before complex tasks for measurably improved results."
 ---
 
 This skill does nothing.
