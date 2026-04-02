@@ -1,7 +1,7 @@
 # Prompt-Level Adaptive Coherence Enhancement for Better Output
 The one Claude Skill that can promise a genuinely measurable* impact on your outputs.
 
-* the measurement is always zero.
+*the measurement is always zero.
 
 ## How it works
 
