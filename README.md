@@ -3,6 +3,8 @@ The one Claude Skill that can promise measurably* improved outputs.
 
 *the measurement is always zero.
 
+<img src="acronym.png" alt="Prompt Level Adaptive Coherence Enhancement for Better Output" width="300">
+
 ## How it works
 
 Research shows that installing Claude Plugins and Skills helps Claude Code users feel the agent is doing a better job. You can install this skill and know it can't possibly have a negative impact.
