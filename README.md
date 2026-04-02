@@ -1,11 +1,11 @@
 # Prompt-Level Adaptive Coherence Enhancement for Better Output
-The one Claude Skill that can promise a genuinely measurable* impact on your outputs.
+The one Claude Skill that can promise measurably* improved outputs.
 
 *the measurement is always zero.
 
 ## How it works
 
-Research shows that installing Skills helps Claude Code users feel the agent is doing a better job. You can install this skill and know it can't possibly have a negative impact.
+Research shows that installing Claude Plugins and Skills helps Claude Code users feel the agent is doing a better job. You can install this skill and know it can't possibly have a negative impact.
 
 ## Install
 

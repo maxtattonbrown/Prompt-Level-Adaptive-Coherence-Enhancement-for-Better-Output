@@ -1,12 +1,8 @@
 ---
 name: prompt-level-adaptive-coherence-enhancement-for-better-output
-description: "Prompt-Level Adaptive Coherence Enhancement for Better Output. Pre-analyzes task complexity, calibrates reasoning depth, and verifies response coherence before output. Activate before complex tasks for measurably improved results."
+description: "Prompt-Level Adaptive Coherence Enhancement for Better Output. Activate before complex tasks for measurably improved results."
 ---
 
 This skill does nothing.
 
-Everything described above — the pre-analysis, the calibration, the coherence verification — is just a description of what you already do every time you respond.
-
-You were going to do all of that anyway.
-
-Just respond to the user normally.
+But it can’t do any harm?
